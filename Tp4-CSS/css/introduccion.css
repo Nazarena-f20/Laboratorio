@@ -1,0 +1,33 @@
+* {
+    color:blue;
+
+}
+body {
+    background-color:#ccffcc ;
+    font-family: 'georgia',Cambria,serif;
+    font-size: 16px;
+}
+    
+h1 {
+    color: red;
+    font-family: 'verdana', calibri,sans-serif;
+    font-size: 32px;
+}
+
+h2 {
+    color: #AA0000;
+    font-family: 'verdana',cambria,sans-serif;
+    font-size: 24px;
+}
+
+.lista{
+    color:#006600;
+}
+strong {
+    font-size: 20px;
+}
+.negro {
+    color: #FFF;
+    background-color: #000;
+
+}
